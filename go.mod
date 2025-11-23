@@ -1,4 +1,4 @@
-module github.com/hIKipau/authProtoMyTierList
+module github.com/hIKipau/authProtoMyTierlist
 
 go 1.25.0
 
